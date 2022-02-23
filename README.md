@@ -43,6 +43,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://lamottsjourney.wordpress.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.lamottsjourney.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/dylan-lamott-b39b47200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dylan%20LaMott-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://lamottsjourney.wordpress.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.lamottsjourney.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/dylan-lamott-b39b47200/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dylan%20LaMott-blue?style=flat-square&logo=linkedin"></a>
 </p>
