@@ -33,7 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/GothamsJoker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GothamsJoker&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothamsJoker&theme=radical&layout=compact" />
 </a>
