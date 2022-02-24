@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, contributing to open source, and creating projects.
-- 🎓 &nbsp; Studying Computer Programming at GTCC.
+- 🎓 &nbsp; A.A.S Computer programming from GTCC.
 - 💼 &nbsp; Just another dude with a keyboard.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
