@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies, contributing to open source, and creating projects.
 - 🎓 &nbsp; A.A.S Computer programming from GTCC.
-- 💼 &nbsp; Just another dude with a keyboard.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
