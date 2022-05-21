@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, contributing to open source, and creating projects.
 - 🎓 &nbsp; A.A.S Computer programming from GTCC.
+- Associate IAM Engineer for Northwestern Mutual
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
