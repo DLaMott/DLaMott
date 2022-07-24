@@ -22,7 +22,6 @@
   ![SQlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![QuestDB](https://img.shields.io/badge/-QuestDB-333333?style=flat&logo=quest)
   ![AWS Aurora](https://img.shields.io/badge/-AWS%20Auora-333333)
-)
   
   
 - ⚙️ &nbsp;
