@@ -21,6 +21,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![QuestDB](https://img.shields.io/badge/-QuestDB-333333?style=flat&logo=quest)
+  ![AWS Aurora](https://img.shields.io/badge/-AWS%20Auora-red)
   
   
 - ⚙️ &nbsp;
