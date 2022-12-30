@@ -34,7 +34,7 @@
 
 <br/>
 
-<a href="https://github.com/GothamsJoker">
+<a href="https://github.com/DLaMott">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GothamsJoker&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GothamsJoker&theme=radical&layout=compact" />
 </a>
@@ -44,6 +44,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://gothamsjoker.github.io/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Website-www.gothamsjoker.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://DLaMott.github.io/" target="_blank" rel="noopener noreferrer"><img alt="Website" src="https://img.shields.io/badge/Website-www.DLaMott.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dylan-lamott-b39b47200/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dylan%20LaMott-blue?style=flat-square&logo=linkedin"></a>
 </p>
