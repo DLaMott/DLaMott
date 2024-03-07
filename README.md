@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, contributing to open source, and creating projects.
-- 🎓 &nbsp; A.A.S Computer programming from GTCC.
-- 👨🏻‍💻 &nbsp; Associate IAM Engineer for Northwestern Mutual
+- 🎓 &nbsp; A.A.S Computer programming.
+- 👨🏻‍💻 &nbsp; IAM Software Engineer for Northwestern Mutual
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
