@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, contributing to open source, and creating projects.
 - 🎓 &nbsp; A.A.S Computer programming.
-- 👨🏻‍💻 &nbsp; IAM Software Engineer for Northwestern Mutual
+- 👨🏻‍💻 &nbsp; IAM Software Engineer II for Northwestern Mutual
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
